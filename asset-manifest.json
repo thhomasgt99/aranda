@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aranda/static/css/main.fef333f0.css",
+    "main.js": "/aranda/static/js/main.cc6dbe8b.js",
+    "static/media/bcq.jpg": "/aranda/static/media/bcq.c34e44b3e59aa9816164.jpg",
+    "static/media/Grupo.png": "/aranda/static/media/Grupo.b2bbff17ca1781a1d459.png",
+    "static/media/cherry.png": "/aranda/static/media/cherry.601aa43496427d7938d0.png",
+    "static/media/Ojingeo-muchim-5.png": "/aranda/static/media/Ojingeo-muchim-5.3ae80bfbd72d61b72b2d.png",
+    "static/media/Ojingeo-muchim.png": "/aranda/static/media/Ojingeo-muchim.294fdf381509ada8d691.png",
+    "static/media/Ojingeo-muchim-1.png": "/aranda/static/media/Ojingeo-muchim-1.9ffcaf222e9b920d35bc.png",
+    "static/media/ic_cake.svg": "/aranda/static/media/ic_cake.c70db41a49993489372dc6abe0656417.svg",
+    "static/media/ic_vegetarian.svg": "/aranda/static/media/ic_vegetarian.8492fb5b70affc98a0a5c577ed1deea9.svg",
+    "static/media/ic_kids.svg": "/aranda/static/media/ic_kids.a776f77f8b46bf84dca15a3bcef11d2a.svg",
+    "static/media/ic_soup.svg": "/aranda/static/media/ic_soup.e654cc6d794245907ac9adca3367e174.svg",
+    "static/media/ic_main.svg": "/aranda/static/media/ic_main.4fcfa5fe9df45b4fb143001c52f7e332.svg",
+    "static/media/ic_home.svg": "/aranda/static/media/ic_home.fc2ca198735d6f9bb942a72f5e5d87b4.svg",
+    "index.html": "/aranda/index.html",
+    "static/media/ic_fast-food.svg": "/aranda/static/media/ic_fast-food.c7d435ef1f0424bceceafd15f4e051bf.svg",
+    "static/media/ic_star.svg": "/aranda/static/media/ic_star.b7fc05fe39bff5a8a9ef061efab4ef21.svg",
+    "static/media/ic-favorite.svg": "/aranda/static/media/ic-favorite.ca2e91db7f9cf246b7447c9eaa78d43c.svg",
+    "main.fef333f0.css.map": "/aranda/static/css/main.fef333f0.css.map",
+    "main.cc6dbe8b.js.map": "/aranda/static/js/main.cc6dbe8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef333f0.css",
+    "static/js/main.cc6dbe8b.js"
+  ]
+}
