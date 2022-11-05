@@ -1,0 +1,10 @@
+.imgFondo {
+	width: 100%;
+	height: 22vh;
+	object-fit: cover;
+}
+@media (min-width: 900px) {
+	.imgFondo  {
+		height: 40vh;
+	}
+}

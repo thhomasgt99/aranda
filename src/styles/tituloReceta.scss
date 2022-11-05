@@ -1,0 +1,18 @@
+.tituloReceta {
+	// background-color: red;
+	margin-top: 12rem;
+	text-align: center;
+	font-size: 2rem;
+	color: #d84b4b;
+	font-family: 'Dancing Script', cursive;
+	font-weight: 900;
+	font-size: 3rem;
+}
+@media (min-width: 900px) {
+	.tituloReceta {
+		margin-top: 2rem;
+		font-size: 4rem;
+		margin-right:45%;
+		margin-bottom: 2rem;
+	}
+}

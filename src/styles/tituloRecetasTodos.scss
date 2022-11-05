@@ -1,0 +1,18 @@
+.tituloRecetasTodos {
+	position: absolute;
+	color: white;
+	top: 10%;
+	left: 25%;
+	font-size: 3rem;
+	span {
+		font-family: 'Dancing Script', cursive;
+		font-weight: 900;
+		font-weight: bold;
+	}
+}
+
+@media (min-width: 900px) {
+	.tituloRecetasTodos {
+		font-size: 5rem;
+	}
+}

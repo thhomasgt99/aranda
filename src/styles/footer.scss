@@ -1,0 +1,44 @@
+footer {
+	margin-top: 5rem;
+	font-family: 'Dancing Script', cursive;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #b8dbed;
+	background-image: linear-gradient(160deg, #b8dbed 0%, #75abc7 100%);
+
+	p {
+		padding-left: 5rem;
+		font-size: 2rem;
+		// margin-left: 20%;
+	}
+	img {
+		// position: absolute;
+		width: 20rem;
+		right: 10rem;
+	}
+	
+}
+
+@media (min-width: 750px) {
+  footer {
+		height: 12rem;
+		img {
+			width: 35rem;
+			right: 12rem;
+		}
+	}
+}
+@media (min-width: 900px) {
+	footer {
+		p {
+			font-size: 3rem;
+			margin-left: 20%;
+		}
+		img {
+			width: 50rem;
+			right: 12rem;
+			padding: 0 5rem 0 5rem;
+		}
+	}
+}

@@ -1,0 +1,11 @@
+.slider {
+	display: flex;
+  position: relative;
+  overflow: scroll;
+}
+@media (min-width: 900px) {
+	.slider  {
+		overflow: auto;
+    justify-content: center;
+	}
+}
